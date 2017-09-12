@@ -46,6 +46,9 @@
 # track readme.md in the root (i.e. do NOT ignore it)
 !readme.md
 
+# track package.json in the root (i.e. do NOT ignore it)
+!package.json
+
 # ignore all files that start with ~
 ~*
 
